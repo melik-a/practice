@@ -1,6 +1,4 @@
 #Agglomerative кластеризация
-import numpy as nm
-import pandas as pd
 import matplotlib.pyplot as plt
 
 
